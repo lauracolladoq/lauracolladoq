@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://github.com/lauracolladoq/lauracolladoq/blob/main/banner_custom.png)
+![Banner](https://github.com/lauracolladoq/lauracolladoq/blob/main/banner.png)
 
 ## 🖥️ | **Languages**
 <p>
